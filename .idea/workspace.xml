@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f8313623-ae4c-4bb2-9fa8-4a33fbcc7835" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/data/ml-20m/README.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/ml-20m/genome-tags.csv" beforeDir="false" />
@@ -8,6 +9,9 @@
       <change beforePath="$PROJECT_DIR$/data/ml-20m/movies.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/ml-20m/tags.csv" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="f8313623-ae4c-4bb2-9fa8-4a33fbcc7835" name="Default Changelist" comment="" />
+>>>>>>> b277fb588fc09a0d67793bb475b5cbd10f1d5ccc
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,11 +28,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reports" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+>>>>>>> b277fb588fc09a0d67793bb475b5cbd10f1d5ccc
       <recent name="$PROJECT_DIR$/reports" />
     </key>
   </component>
