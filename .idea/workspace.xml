@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8313623-ae4c-4bb2-9fa8-4a33fbcc7835" name="Default Changelist" comment="" />
+    <list default="true" id="f8313623-ae4c-4bb2-9fa8-4a33fbcc7835" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/ml-20m/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ml-20m/genome-tags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ml-20m/links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ml-20m/movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ml-20m/tags.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
