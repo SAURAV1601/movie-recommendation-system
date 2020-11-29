@@ -15,9 +15,18 @@ Overview
 
 Setup steps
 -----------
+- Download Numpy & Pandas
+```
+$ sudo apt-get install python-pip
+$ sudo pip install numpy
+$ sudo pip install pandas
+```
 
 Run steps
 ---------
+- To run statistical filtering,
+  - From /code/Statistical Filtering/ <br/>
+  `python3 topMovies.py`
 
 Results
 -------
