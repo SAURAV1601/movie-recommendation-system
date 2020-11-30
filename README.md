@@ -22,10 +22,13 @@ $ sudo pip install numpy
 $ sudo pip install pandas
 ```
 
+- Download Scikit-Learn <br/>
+`$ pip3 install -U scikit-learn`
+
 Run steps
 ---------
 - To run statistical filtering,
-  - From /code/Statistical Filtering/ <br/>
+  - From /code/Statistical filtering/ <br/>
   `python3 topMovies.py`
 
 Results
