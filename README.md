@@ -23,13 +23,19 @@ $ sudo pip install pandas
 ```
 
 - Download Scikit-Learn <br/>
-`$ pip3 install -U scikit-learn`
+```
+$ pip3 install -U scikit-learn`
+```
 
 Run steps
 ---------
 - To run statistical filtering,
   - From /code/Statistical filtering/ <br/>
   `python3 topMovies.py`
+
+- To run content based filtering,
+  - From /code/Content based filtering/ <br/>
+  `python3 topSimilarContentMovies.py`
 
 Results
 -------
@@ -49,4 +55,20 @@ The list of top 10 movies are:
 662                 Fight Club    8.3
 2170                    Psycho    8.2
 1847                GoodFellas    8.2
+```
+
+For our content based filtering, finding similarity between movie's overview, we got the top 10 movies similar to 'The Shawshank Redemption' as,
+```
+Movies similar to The Shawshank Redemption are:
+4531               Civil Brand
+3785                    Prison
+609                Escape Plan
+2868                  Fortress
+4727              Penitentiary
+1779    The 40 Year Old Virgin
+2667          Fatal Attraction
+3871         A Christmas Story
+434           The Longest Yard
+42                 Toy Story 3
+Name: title, dtype: object
 ```
