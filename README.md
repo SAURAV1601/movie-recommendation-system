@@ -11,7 +11,7 @@ Authors
 
 Overview
 --------
-
+This project contains i) Statistical Filtering and ii) Content based filtering to recommend top movies.
 
 Setup steps
 -----------
