@@ -72,3 +72,7 @@ Movies similar to The Shawshank Redemption are:
 42                 Toy Story 3
 Name: title, dtype: object
 ```
+
+References
+----------
+Our methods are based on [Hands-On Recommendation Systems with Python](https://www.oreilly.com/library/view/hands-on-recommendation-systems/9781788993753/) by [Rounak Banik](https://github.com/rounakbanik)
